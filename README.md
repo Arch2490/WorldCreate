@@ -7,7 +7,7 @@ Automatic Script to load Minecraft Java seeds 1.21+ and >1.20. As well as abilit
 
 #
 
-<img width="486" height="586" alt="image" src="https://github.com/user-attachments/assets/b8a55e0f-e9dc-4763-86fc-b9caf6588288" />
+<img width="487" height="589" alt="image" src="https://github.com/user-attachments/assets/fb97109a-25b9-4ccf-9153-7f672174aee6" />
 
 #
 
