@@ -12,7 +12,7 @@ Automatic Script to load Minecraft Java seeds 1.21+ and >1.20. As well as abilit
 #
 
 # Usage:
-Input a list of minecraft seeds that you want to check in game. Then click "Load Seeds" to load it in. Once you click F6. It will automatically move your mouse cursor to specific coordinates and click. It will also replace the world name with the seed )because why not.)
+Input a list of minecraft seeds that you want to check in game. Then click "Load Seeds" to load it in. Once you click F6. It will automatically move your mouse cursor to specific coordinates and click. It will also replace the world name with the seed (because why not.)
 
 # WARNINGS:
 - Please use GUI scale 3 in game, i might make some future changes to be able to support other gui scales but for now only GUI scale 3
