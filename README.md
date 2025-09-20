@@ -21,3 +21,4 @@ It will also replace the world name with the seed (because why not.)
 - Make sure the Minecraft version is set to the version you are currently playing on or some buttons will not work properly.
 - Before pressing F6, Make sure you can on the title screen. Might break if you are already on the worlds menu.
 - Dont press the Tab key before running the hotkey. You can tell if it is pressed if there is a white outline even if your mouse is not hoverig over it.
+- Dont use mods that add any new UI elements (eg, SpeedrunIGT, Atum, etc). The Tab-Enter might break since it would instead highlight those UI elements instead of the Singleplayer Button.
