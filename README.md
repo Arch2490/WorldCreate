@@ -6,7 +6,8 @@ Automatic Script to load Minecraft Java seeds >=1.19.4 and <=1.19.3. As well as 
 (Works on Fullscreen, Windowed, GUI scale 1, GUI scale 2, GUI scale 3, and GUI scale 4)
 
 #
-<small>In WorldCreate 2.5</small>
+(Image from WorldCreate V2.5)
+
 <img width="489" height="697" alt="image" src="https://github.com/user-attachments/assets/5cccc1d5-4268-4c25-99e9-04b0b2fe920e" />
 
 #
