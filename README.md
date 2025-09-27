@@ -2,12 +2,12 @@
 
 # WorldCreate
 
-Automatic Script to load Minecraft Java seeds 1.21+ and >1.20. As well as ability to paste in a list of seeds for it to check one-by-one.
-(Works on both Fullscreen and Windowed.)
+Automatic Script to load Minecraft Java seeds >=1.19.4 and <=1.19.3. As well as ability to paste in a list of seeds for it to check one-by-one.
+(Works on Fullscreen, Windowed, GUI scale 1, GUI scale 2, GUI scale 3, and GUI scale 4)
 
 #
 
-<img width="488" height="691" alt="image" src="https://github.com/user-attachments/assets/f77ea38d-4448-4afb-a783-4a9fa625d908" />
+<img width="489" height="697" alt="image" src="https://github.com/user-attachments/assets/5cccc1d5-4268-4c25-99e9-04b0b2fe920e" />
 
 #
 
@@ -22,3 +22,5 @@ It will also replace the world name with the seed (because why not.)
 - Before pressing F6, Make sure you can on the title screen. Might break if you are already on the worlds menu.
 - Dont press the Tab key before running the hotkey. You can tell if it is pressed if there is a white outline even if your mouse is not hoverig over it.
 - Dont use mods that add any new UI elements (eg, SpeedrunIGT, Atum, etc). The Tab-Enter might break since it would instead highlight those UI elements instead of the Singleplayer Button.
+- Make sure you already have atleast a single world in your worlds list.
+- I made the cooldown kinda fast so if you PC is slow it might lag behind and not fill in the seed box.
