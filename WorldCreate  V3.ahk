@@ -562,11 +562,7 @@ return
 Reload
 
 ; unnecesarry comments
-; i dont like how its 400 lines, 266 of which being just the different version with world types
-; im kinda sick writing this im coughing a lot
-; i really hope this works flawlessly on all version but like im too lazy to test one by one
-; i might potentiall add support for 1.12 (the older older ui before the 1.19.3 one) but idk if they do the tab and enter
-; if all works fine this is final version
-; chocolate ice cream tastes really bad it dosent taste like chocolate
+; wewewewewewewwewewewewe
+; bye bye
 ; this has been an arch2490/4rch249 productions
 ; (and a chatgpt productions)
