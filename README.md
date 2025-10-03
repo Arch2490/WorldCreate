@@ -21,6 +21,6 @@ It will also replace the world name with the seed (because why not.)
 - Make sure the Minecraft version is set to the version you are currently playing on or some buttons will not work properly.
 - Before pressing F6, Make sure you are on the main menu. Might break if you are already on the worlds menu.
 - Dont press the Tab key before running the hotkey. You can tell if it is pressed if there is a white outline even if your mouse is not hovering over it. Just press something like the Options menu and exit to get rid of it.
-- Dont use mods that add any new UI elements (eg, SpeedrunIGT, Atum, etc). The Tab-Enter might break since it would instead highlight those UI elements instead of the Singleplayer Button.
+- Dont use mods that add any new UI elements (eg, SpeedrunIGT, Atum, ModMenu, etc). The Tab-Enter might break since it would instead highlight those UI elements instead of the Singleplayer Button.
 - Make sure you already have atleast a single world in your worlds list.
 - I made the cooldown kinda fast so if you PC is slow it might lag behind and not fill in the seed box.
