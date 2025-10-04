@@ -2,7 +2,7 @@
 
 # WorldCreate
 
-Automatic Script to load Minecraft Java 1.14 - 1.21.8 and with different world typs. As well as ability to paste in a list of seeds for it to check one-by-one.
+Automatic Script to load Minecraft Java 1.14 - 1.21.9 and with different world typs. As well as ability to paste in a list of seeds for it to check one-by-one.
 (Works on Fullscreen, Windowed, GUI scale 1, GUI scale 2, GUI scale 3, and GUI scale 4)
 
 #
